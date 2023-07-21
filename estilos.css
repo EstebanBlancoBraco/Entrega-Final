@@ -8,7 +8,7 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   margin: 0;
   padding: 10px;
-  background-image: url(/multimedia/background.jpg);
+  background-image: url(./multimedia/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
@@ -43,13 +43,13 @@
 }
 
 .item1 {
-  background-image: url(/multimedia/D_NQ_NP_2X_911252-MLA52222511090_102022-F.jpg);
+  background-image: url(./multimedia/D_NQ_NP_2X_911252-MLA52222511090_102022-F.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .item2 {
-  background-image: url(/multimedia/D_NQ_NP_2X_756619-MLA51828394802_102022-F.jpg);
+  background-image: url(./multimedia/D_NQ_NP_2X_756619-MLA51828394802_102022-F.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -239,12 +239,12 @@ footer .redesColor {
     border: 5px solid #135626;
   }
   .item1 {
-    background-image: url(/multimedia/D_NQ_NP_2X_911252-MLA52222511090_102022-F.jpg);
+    background-image: url(./multimedia/D_NQ_NP_2X_911252-MLA52222511090_102022-F.jpg);
     background-position: center;
     background-size: contain;
   }
   .item2 {
-    background-image: url(/multimedia/D_NQ_NP_2X_756619-MLA51828394802_102022-F.jpg);
+    background-image: url(./multimedia/D_NQ_NP_2X_756619-MLA51828394802_102022-F.jpg);
     background-position: center;
     background-size: contain;
   }
